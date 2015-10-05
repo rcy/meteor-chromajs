@@ -1,7 +1,7 @@
 Package.describe({
   name: 'rcy:chromajs',
   summary: 'library for all kinds of color manipulations',
-  version: '0.6.1',
+  version: '0.6.2',
   git: "https://github.com/rcy/meteor-chromajs"
 });
 
